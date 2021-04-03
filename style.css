@@ -1,0 +1,19 @@
+
+ body { background-color: brown; }
+ 
+      .main { color:white; text-align:center; font-size:20pt;font-weight: bold; font-size: 3em; font-style: italic;}
+			
+     .side_left { color:white; font-size:20pt;}
+		 
+      #subtitle { color:white; text-ali
+			gn: center; font-size:15pt;background-color:red; }
+					
+      #same { color:white;text-align: center; font-size:15pt; }
+			
+	    .box { color:white; border: green solid 5px; padding:0.5em; height: 500px; width: 600px; margin: 1em; float: left; }
+			
+      ol { color: white; font-size:20pt;}
+			
+      ul li { background-color:green; font-size: 150%; }
+			
+      .done { text-decoration:line-through; }
